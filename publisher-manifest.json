@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0ef9fa13cc74f0f2ad831cbb",
+  "owner": "efqpmqbd",
+  "repo": "page-526b50319107ad6462e053b4",
+  "title": "白嫖(SKY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "526b50319107ad6462e053b4",
+      "a": "白嫖(SKY)",
+      "b": "2027最新官网",
+      "entity": "白嫖(SKY)",
+      "brand": "白嫖(SKY)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "96ad6b044b1349b4e7ab5c02c66a63631893323a3bc0cf77ce9f351337bf1af4",
+      "content": {
+        "primary_entity": "白嫖(SKY)",
+        "keyword1": "白嫖(SKY)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅就能开始。",
+          "AI_CLOSING_TITLE": "白嫖(SKY)加速上手",
+          "AI_DESCRIPTION": "，为跨区访问、流媒体与外服游戏提供多线路节点，套餐按流量、设备数区分，方便按需选择。",
+          "AI_FEATURES_INTRO": "从套餐差异、设备限制和订阅周期看白嫖(SKY)的用法。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备，按在线需求挑。",
+          "AI_FEATURE_TEXT_2": "每月流量、同时在线设备数和节点池随版本变化，团队版可到1000GB和20台。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付可享折扣，长期使用换算到每月成本更低。",
+          "AI_FEATURE_TITLE_1": "套餐按需分档",
+          "AI_FEATURE_TITLE_2": "设备与流量",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "白嫖(SKY)提供多版本海外加速套餐，覆盖基础浏览到团队高带宽场景，按设备数、月流量和节点线路组合选择。",
+          "AI_HERO_SUBTITLE": "多线路加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "月付年付灵活",
+          "AI_HIGHLIGHT_3": "多客户端配置",
+          "AI_PLANS_INTRO": "基础版月付¥15或年付¥150，旗舰版月付¥35或年付¥350，团队版月付¥85或年付¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认操作系统与设备类型符合所选套餐的在线设备数要求。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档导入订阅地址，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "白嫖(SKY)加速套餐",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "白嫖(SKY)的套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "套餐档位可按需更换，具体升级方式以订阅管理页显示的选项为准。升级后流量和在线设备数按新档位执行。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版5台，团队版20台。同时在线设备数超过套餐上限时，后续设备可能无法连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，年付一次性支付更划算。基础版年付150元，旗舰版年付350元，团队版年付850元，权益与对应月付档位一致。",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后连不上怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅链接是否完整、客户端版本是否匹配，再检查本地网络。多数情况更新订阅或重启客户端后即可恢复。",
+          "AI_FAQ_QUESTION_5": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，超出部分可能限速或暂停，建议按实际用量选择档位，或升级到更高流量的套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqu3m084e.com",
+    "host": "xn--9kqu3m084e.com"
+  },
+  "file_hashes": {
+    "index.html": "157cb27081a2412c1275adc4231d02f3301812d57ab5c350b26290c7977bded3",
+    "sitemap.xml": "c3cea08ee2d0861137b0aac24288dccc9cc02ef2307f2e6f832ff5a7f1c0d985",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7f8102ea1b7ae5bfcef6a778e6a811928a4edf5c078f5842d03ba2293cfbd784",
+    "robots.txt": "0caf5f34d268b518d9114615ed19b8a98907f710dcfb8ca13a077cbb95e15143",
+    "de921624f903f7bc7ea68ff2c4a43fbb.txt": "52462512dc3b0c5e3edbacb3cbcf82b054abe9d09e1f768324c0c3c0d37f5198"
+  },
+  "revision": "273c548ecf51903de254a23b07f9d6938bd26589a03e1a76d3737f908987d2ac"
+}
